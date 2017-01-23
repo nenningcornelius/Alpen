@@ -4,3 +4,10 @@ body{
 ul{
   /*height: 10px;*/
 }
+.nav {
+    width: auto;
+    height: 70px;
+    background-color: #272727;
+    position: relative;
+    overflow: hidden;
+}
