@@ -1,12 +1,6 @@
 body{
-  color: green;
-  overflow: scroll;
-}
+  color: #008000;
+  }
 ul{
   /*height: 10px;*/
-}
-.nav {
-    width: auto;
-    position: relative;
-    overflow: hidden;
 }
